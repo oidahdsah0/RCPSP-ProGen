@@ -23,7 +23,7 @@ Finally, grateful to eborghi10's work, what inspired us a lot : https://github.c
 7. Wait, several cups of coffee ...
 8. Find what you want in dataSets folder.
 
-## Our work
+## Some other work
 
 The following are some of our studies in RCPSP/MRCPSP field, welcome to read or cite：
 
