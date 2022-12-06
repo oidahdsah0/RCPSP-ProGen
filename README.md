@@ -25,7 +25,7 @@ Finally, grateful to eborghi10's work, what inspired us a lot : https://github.c
 
 ## Our work
 
-The following are some of our studies, welcome to read or cite：
+The following are some of our studies related, welcome to read or cite：
 
 1. Liu, Y., Li, R. and Liu, H., 2020. Heuristic optimization for robust resource-constrained flexible project scheduling problem. IEEE Access, 8, pp.142269-142281.
 
