@@ -19,7 +19,7 @@ Finally, grateful to eborghi10's work, what inspired us a lot : https://github.c
 3. Set m_list as the mode of you project, array is allowed.
 4. Set C_list as the complexity of your project, array is allowed.
 5. RRF_list for RRF, RRS_list for RRS, NRF, NRS, and so on ...
-6. Last but not least, set the number of examples to generate.
+6. Last but not least, set the number of examples to generate (expNum).
 7. Wait, several cups of coffee ...
 8. Find what you want in dataSets folder.
 
