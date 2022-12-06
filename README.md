@@ -27,7 +27,7 @@ E-mail: rareleo@qq.com (Renjie Li)
 
 ## Our work
 
-The following of our studies are based on this set of codes, welcome to consult or quote：
+The following of our studies are based on this set of codes, welcome to read or cite：
 
 1. Liu, Y., Li, R. and Liu, H., 2020. Heuristic optimization for robust resource-constrained flexible project scheduling problem. IEEE Access, 8, pp.142269-142281.
 
