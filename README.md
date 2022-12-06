@@ -2,7 +2,7 @@
 
 Project scheduling problem Instance generator for RCPSP/MRCPSP, matlab version, open source.
 
-In view of the fact that the old ProGen program on the PSPLib official website has been around for some years, and there is almost no source code available for modification, we decided to use Matlab to implement the code in the paper by Kolisch, R., Sprecher, A. and Drexl, A.
+In view of the fact that the old ProGen program on the PSPLib official website has been around for some years, and there is almost no source code available for modification, we decided to use Matlab to implement the code in the paper by Kolisch, R., Sprecher, A. and Drexl, A[1].
 
 However, I have to say that the current code is still in the prototype stage, and there are some hidden BUGs that are relatively deep, and we will follow up and update (probably, haha).
 
@@ -35,4 +35,4 @@ The following are some of our studies related, welcome to read or cite：
 
 ## Reference
 
-Kolisch, R., Sprecher, A. and Drexl, A., 1995. Characterization and generation of a general class of resource-constrained project scheduling problems. Management science, 41(10), pp.1693-1703.
+[1]. Kolisch, R., Sprecher, A. and Drexl, A., 1995. Characterization and generation of a general class of resource-constrained project scheduling problems. Management science, 41(10), pp.1693-1703.
