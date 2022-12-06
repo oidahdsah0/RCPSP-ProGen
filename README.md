@@ -4,7 +4,7 @@ Project scheduling problem Instance generator for RCPSP/MRCPSP, matlab version, 
 
 In view of the fact that the old ProGen program on the PSPLib official website has been around for some years, and there is almost no source code available for modification, we decided to use Matlab to implement the code in the paper by Kolisch, R., Sprecher, A. and Drexl, A[1].
 
-However, I have to say that the current code is still in prototype stage, and there are some hidden BUGs that are relatively deep, and we will follow up and update (probably, haha).
+However, I have to say that the current code is still in prototype stage, several modifications must be made to fit your work, and we will follow up and update (probably, haha).
 
 Of course, if you have any academic questions about the RCPSP field, please feel free to contact us.
 
