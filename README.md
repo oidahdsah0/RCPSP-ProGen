@@ -1,6 +1,6 @@
 # ProGen in Matlab
 
-Project scheduling problem Instance generator for RCPSP/MRCPSP, matlab sersion, open source.
+Project scheduling problem Instance generator for RCPSP/MRCPSP, matlab version, open source.
 
 In view of the fact that the old ProGen program on the PSPLib official website has been around for some years, and there is almost no source code available for modification, I decided to use Matlab to implement the code in the paper by Kolisch, R., Sprecher, A. and Drexl, A.
 
