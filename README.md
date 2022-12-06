@@ -8,7 +8,9 @@ However, I have to say that the current code is still in the prototype stage, an
 
 Of course, if you have any academic questions about the RCPSP field, please feel free to contact us.
 
-E-mail: rareleo@qq.com (Renjie Li)
+Finally, thanks to eborghi10's work, it has inspired us a lot : github.com/eborghi10/RCPSP
+
+E-mail: rareleo@qq.com
 
 ## Usage
 
