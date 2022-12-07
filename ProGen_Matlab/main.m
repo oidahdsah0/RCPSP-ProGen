@@ -6,12 +6,12 @@ clc;clear;clf;close all;
 % real jobs num
 J_proj = 20;
 % mode num
-m_list = [1, 2, 3];
+m_list = 1 % or [1, 2, 3];
 % network complexity
-C_list = [1.5, 1.8, 2.1];
+C_list = 1.5 % or [1.5, 1.8, 2.1];
 % re resource limit params
-RRF_list = [0.5, 0.8, 1.0];
-RRS_list = [0.4, 0.8, 1.2];
+RRF_list = 0.7 % or [0.7, 0.8, 0.9];
+RRS_list = 0.6 % or [0.6, 0.8, 1.0];
 % nr resource limit params
 NRF = 1.0; NRS = 0.7;
 % example num
