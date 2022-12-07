@@ -10,7 +10,7 @@ Of course, if you have any academic questions about the RCPSP field, please feel
 
 For queries on implementation or RCPSP field contact : rareleo@qq.com (Li, R.)
 
-Finally, grateful to eborghi10's work, what inspired this project a lot : https://github.com/eborghi10/RCPSP
+Finally, thanks to eborghi10's work, what inspired this project a lot : https://github.com/eborghi10/RCPSP
 
 ## Usage
 
