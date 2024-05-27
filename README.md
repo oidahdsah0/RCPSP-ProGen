@@ -12,7 +12,7 @@ For queries on implementation or the RCPSP field, contact: rareleo@qq.com (Li, R
 
 We would also like to acknowledge the work of eborghi10, which greatly inspired this project: [eborghi10's RCPSP](https://github.com/eborghi10/RCPSP)
 
-# Usage:
+## Usage:
 1. Open `main.m`
 2. Set `J_proj` to the number of real jobs (excluding dummy jobs)
 3. Set `m_list` as the mode of your project (array is allowed)
@@ -22,12 +22,12 @@ We would also like to acknowledge the work of eborghi10, which greatly inspired 
 7. Wait a few minutes...
 8. Find your results in the `dataSets` folder
 
-# Additional Work:
+## Additional Work:
 Here are some of our studies in the RCPSP/MRCPSP field. Feel free to read or cite:
 
 - Liu, Y., Li, R. and Liu, H., 2020. Heuristic optimization for robust resource-constrained flexible project scheduling problem. *IEEE Access*, 8, pp.142269-142281.
 - Liu, H., Qu, S., Li, R. and Razaa, H., 2021. Bi-objective robust project scheduling with resource constraints and flexible activity execution lists. *Computers & Industrial Engineering*, 156, p.107288.
 - Liu, H., Fang, Z. and Li, R., 2022. Credibility-based chance-constrained multimode resource-constrained project scheduling problem under fuzzy uncertainty. *Computers & Industrial Engineering*, 171, p.108402.
 
-# Reference:
+## Reference:
 [1] Kolisch, R., Sprecher, A., and Drexl, A., 1995. Characterization and generation of a general class of resource-constrained project scheduling problems. *Management Science*, 41(10), pp.1693-1703.
